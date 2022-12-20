@@ -5,30 +5,19 @@
 <div dir="rtl">
   
 ### اسم الطالب
-
+ثامر اسعد رمضان 
 
 ### اسم المشروع
-
+Jumpy game
 
 # شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
+
+لعبة يقوم الاعب بالقفز فوق المنصات و المحاولة للباقاء على قيد الحياة قدر الامكان 
 
 
 # الأعمال المستقبلية
-
+    اضافة اعداء يقومون بالتخريب على الاعب 
 
 </div>
-
-> Fill out project information in English ⬇️
-### Student Name
-
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
 
 
